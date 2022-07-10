@@ -1,4 +1,4 @@
-//Maciej Michalak Numer albumu : 19510 Grupa : TZI04IS2
+
 
 //1
 
